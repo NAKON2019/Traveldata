@@ -1,0 +1,281 @@
+	<?php include('include/header.php'); ?>
+    <!-- Start: Slides  -->
+    <div class="slides_wrapper">
+        <div class="slider_home">
+            <div class="single_slider slide_bg_1">
+                <div class="slider_item_tb">
+                    <div class="slider_item_tbcell">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-7 col-xs-12">
+                                    <h5>The True IT</h5>
+                                    <h2>WELCOME TO NAKON TECH PROJECT LTD </h2>
+                                    <p>QUALITY OF INFORMARTION TECHNOLOGY SOLUTIONS.</p>
+                                    <div class="slider_btn">
+                                        <a href="contact.php" class="slider_btn_two more-link ">Read More</a>
+                                        <a href="contact.php" class="slider_btn_one more-link ">Contact Us</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="single_slider slide_bg_2">
+                <div class="slider_item_tb">
+                    <div class="slider_item_tbcell">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-7 col-xs-12">
+                                    <h5>Internet Solutions</h5>
+                                    <h2>NAKON TECH PROJECT LTD  <br>Clean As Mine </h2>
+                                    <p>As quas equidem noluisse et, ex pro semper fierent oporteat. Te epic urei ullamcorper usu, eos et voluptaria rationibus. Usu cu eligendi ad ipisci, sed ex altera dae s reformidans ea, inermis ration ibus necessitatibus eu eum.</p>
+                                    <div class="slider_btn">
+                                        <a href="contact.php" class="slider_btn_two more-link ">Read More</a>
+                                        <a href="contact.php" class="slider_btn_one more-link ">Contact Us</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- End:  slider
+==================================================-->
+
+
+
+    <!-- Start:Our Services Section
+==================================================-->
+    <section class="service-section">
+        <div class="container">
+            <!-- Start: Heading -->
+            <div class="base-header">
+                <h3>Our Services</h3>
+                <p>Every home owner has a list of renovation, home repair, or home improvement projects he or she needs done both interior and exterior. Sometimes that list can get quite  e bathrooms </p>
+            </div>
+            <!-- End: Heading -->
+            <div class="row">
+                <div class="col-md-4 col-xs-12">
+                    <!-- about-item -->
+                    <div class="service-item">
+                        <div class="icon-serv">
+                            <img src="images/service_icon1.png" alt="image">
+                        </div>
+                        <h4>Mobile App Development</h4>
+                        <p>EWith Mobile technology taking center stage in today’s world, organizations are keen on making significant advancements in the mobile space.</p>
+                    </div>
+                    <!-- End: .service-item -->
+                </div>
+                <div class="col-md-4 col-xs-12">
+                    <!-- about-item -->
+                    <div class="service-item">
+                        <div class="icon-serv">
+                            <img src="images/service_icon2.png" alt="image">
+                        </div>
+                        <h4>Software Development</h4>
+                        <p>Development of new software products is vital for accelerating growth of any business. At NAKON-TECH, we help invent new software applications for your business.</p>
+                    </div>
+                    <!-- End: .service-item -->
+                </div>
+                <div class="col-md-4 col-xs-12">
+                    <!-- about-item -->
+                    <div class="service-item">
+                        <div class="icon-serv">
+                            <img src="images/service_icon3.png" alt="image">
+                        </div>
+                        <h4>Website Development</h4>
+                        <p>Nakon-Tech Ltd delivers creative and professional web design, development and maintenance services to individuals, small businesses as well as large organizations in Nigeria and outside.</p>
+                    </div>
+                    <!-- End: .service-item -->
+                </div>
+            </div>
+            <!-- /. row -->
+        </div>
+        <!-- /. container -->
+    </section>
+    <!-- End:Our Services Section
+==================================================-->
+
+
+
+    <!-- Start: About Us Section
+==================================================-->
+    <section class="about-section">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-6 col-xs-12">
+                    <div class="about_img">
+                        <img src="images/about.jpg" alt="image">
+                    </div>
+                </div>
+                <div class="col-md-6 col-xs-12">
+                    <div class="about_item_tb">
+                    <div class="about_item_tbcell">
+                         <h3>We Are Professional<br>Company</h3>
+                         <p>We have been in the repair and service business starting 2019.We have experience experiance skills in ICT sulotion sales and distribution of Computers, computer accessories, phones and phones accessories, not limited to computer training, repairs of phone and services in all fields including installation, maintenance and terrestrial networks, supply, import and export of computers, our team will get your device with guarantehe repair and service bu ieed fixing or customization.</p><p>Also to carry on the business of information communication technology supplies, information communication technology facilities, installation and maintenance services, allied matters, internet services, general information technology services and software, hardware, repairs, services, computer installation, implementation, computer networking, digital imaging, VSAT, ISP wireless, communications, training and information technology. </p>
+                         <a href="contact.php" class="more-link">Read More</a>
+                    </div>
+                    </div>
+                </div>
+                <!-- /.about_wrp-->
+            </div>
+            <!-- /. row -->
+        </div>
+        <!-- /. container -->
+    </section>
+    <!-- End: About Us Section
+==================================================-->
+
+    <!--  Start:Call to action Section
+==================================================-->
+    <section class="cta-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="cta_wrp">
+                        <h2>If You Have Any Problem Contact Us</h2>
+                        <p>We have been in the repair and service business.We have experience in ICT sulotions ready to handle all of your repair tasks in. </p>
+                        <a href="tel:+2348026336861" class="more-link">Call Us Now</a>
+                    </div>
+                </div>
+            </div>
+            <!--/ row -->
+        </div>
+        <!--/ container -->
+    </section>
+    <!-- End: Call to action  Section
+==================================================-->
+
+
+<!-- Start: Work Section 
+==================================================-->
+    <section class="work-section">
+        <div class="container">
+            <!-- Start: Heading -->
+            <div class="base-header">
+                <h3>See Our Work</h3>
+                <p>Every home owner has a list of renovation, home repair, or home improvement projects he or she needs done both interior and exterior. Sometimes that list can get quite  e bathrooms </p>
+            </div>
+            <!-- End: Heading -->
+            <!-- Start: Work filter -->
+            <ul class="projects-titles">
+                <li class="active" data-filter="*"><span>all</span>
+                </li>
+                <li data-filter=".web"><span>carpet</span>
+                </li>
+                <li data-filter=".design"><span>floor</span>
+                </li>
+                <li data-filter=".graphics"><span>house</span>
+                </li>               
+                <li data-filter=".clean"><span>pool</span>
+                </li>
+            </ul>
+            <!-- End: Work filter -->
+            <div class="row projects-list">   
+                <div class="col-md-4 col-xs-12 web graphics">
+                    <div class="single-project-item">
+                        <div class="project-hover">
+                            <div class="project_cnt">
+                                <a class="project-link" href="images/work-1.jpg"><i class="icon-glyph-26"></i></a>
+                                <h6><a href="gallery.php">Office cleaning</a></h6>
+                                <span><a href="single-gallery.php">category : cleaning</a></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End: Work Item 1 -->
+                <div class="col-md-4 col-xs-12 design clean">
+                    <div class="single-project-item project-bg-2">
+                        <div class="project-hover">
+                            <div class="project_cnt">
+                                <a class="project-link" href="images/work-2.jpg"><i class="icon-glyph-26"></i></a>
+                                <h6><a href="gallery.php">House cleaning</a></h6>
+                                <span><a href="single-gallery.php">category : cleaning</a></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End: Work Item 2 -->
+                <div class="col-md-4 col-xs-12 web design">
+                    <div class="single-project-item project-bg-3">
+                        <div class="project-hover">
+                            <div class="project_cnt">
+                                <a class="project-link" href="images/work-3.jpg"><i class="icon-glyph-26"></i></a>
+                                <h6><a href="gallery.php">Floor cleaning</a></h6>
+                                <span><a href="single-gallery.php">category : cleaning</a></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End: Work Item 3 -->  
+
+                <div class="col-md-6 col-xs-12 design web clean">
+                    <div class="single-project-item project-bg-4">
+                        <div class="project-hover">
+                            <div class="project_cnt">
+                                <a class="project-link" href="images/work-4.jpg"><i class="icon-glyph-26"></i></a>
+                                <h6><a href="gallery.php">Pool cleaning</a></h6>
+                                <span><a href="single-gallery.php">category : cleaning</a></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End: Work Item 4 -->
+                <div class="col-md-6 col-xs-12 web graphics">
+                    <div class="single-project-item project-bg-5">
+                        <div class="project-hover">
+                            <div class="project_cnt">
+                                <a class="project-link" href="images/work-5.jpg"><i class="icon-glyph-26"></i></a>
+                                <h6><a href="gallery.php">House cleaning</a></h6>
+                                <span><a href="single-gallery.php">category : cleaning</a></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End: Work Item 5 -->  
+            </div>
+            <!--/.row -->
+        </div>
+        <!--/.container -->
+    </section>
+    <!-- End: Work Section 
+==================================================-->
+
+
+
+    <!--  Start: Video Section
+==================================================-->
+    <section class="video-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="video_wrp">
+                        <h2>Watch Our Video</h2> 
+                        <div class="play_btn">
+                            <img alt="video" src="image/Transient.webm">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--/ row -->
+        </div>
+        <!--/ container -->
+    </section>
+    <!-- End: Video Section
+==================================================-->
+
+
+
+    <!--  Start:Team Section
+==================================================-->
+    <section class="team-section">
+      
+    </section>
+    <!--  End:Team Section 
+==================================================-->
+<?php include('include/footer.php'); ?>
